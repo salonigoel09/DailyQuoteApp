@@ -64,7 +64,14 @@ The final Flutter UI closely follows the same structure:
 - Author text below the quote
 - Bottom action buttons for refresh, favorite, and share
 
-(Add Stitch screenshots here)
+### Stitch Make Designs
+
+**Home Screen**
+![Stitch Home](screenshots/home_screen.png)
+
+**Favorites Screen**
+![Stitch Favorites](screenshots/favourite_screen.png)
+
 
 ---
 
